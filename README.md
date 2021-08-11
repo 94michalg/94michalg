@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Spring framework, Java FXGL and Web Development.
 
 Check my websites:
-* [Simple arcade game](https://94michalg.prv.pl) - the game was written 100% javascript, without Phaser framework.
-* [www.oskgorzkowicz.pl](https://oskgorzkowicz.pl) - Firm website, made in HTML, CSS and PHP for driving school.
+* [Simple arcade game](https://94michalg.prv.pl) - the game was written in javascript, without Phaser framework.
+* [www.oskgorzkowicz.pl](https://oskgorzkowicz.pl) - Company website, made in HTML, CSS and PHP for driving school.
 
 
 
