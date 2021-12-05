@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Spring framework, Java FXGL and Web Development.
 
 
-You can check samples of my projects here:
+You can see my projects in action here:
 
-[![PROJECTS PRESENTATION ON YOUTUBE](https://img.youtube.com/vi/lQ9uj34aAPs/0.jpg)](https://www.youtube.com/playlist?list=PLmmD0G1NelDP9H8DCTTb0tgHeFlT2lWnc)
+<a href="https://www.youtube.com/playlist?list=PLmmD0G1NelDP9H8DCTTb0tgHeFlT2lWnc"><img src="/epidemic_sim.JPG" alt="PROJECTS PRESENTATION ON YOUTUBE" width="60%"></a>
 
 
 Check my websites:
